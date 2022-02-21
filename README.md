@@ -1,1 +1,3 @@
-# datacampnotebook
+# DataCamp Data Science Projects
+
+Hello, this is all of my unguided projects in datacamp. This is to demonstrate my skills in data acquisition, wrangling, data visualizations, EDA, machine learning, and the most important of all-the ability to share to the stakeholders. I will be updating my codes from time to time to create much more efficient and clean work. If you are planning to use my work to complete the datacamp projects for yourself, take note that you are not learning and just lying to yourself that you actually know stuff. Instead, if you are really having a hard time, read my notebooks and use this as a guide and dont copy atleast everything. Thank you
